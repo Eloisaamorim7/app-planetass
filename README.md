@@ -1,1 +1,1 @@
-# Aplicativo CRUD de Planetas
+# App Planetas
