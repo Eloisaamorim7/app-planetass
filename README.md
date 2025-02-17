@@ -1,1 +1,1 @@
-# app-planetass
+# Aplicativo CRUD de Planetas
